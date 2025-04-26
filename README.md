@@ -4,15 +4,14 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-4.9.5-blue.svg)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.3.0-38B2AC.svg)](https://tailwindcss.com/)
 [![Vite](https://img.shields.io/badge/Vite-4.3.9-646CFF.svg)](https://vitejs.dev/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 A modern, responsive dashboard for monitoring and managing AI safety incidents in real-time. Built with React, TypeScript, and Tailwind CSS.
 
-![AI Safety Incidents Dashboard](https://via.placeholder.com/800x400?text=AI+Safety+Incidents+Dashboard)
 
 ## 🚀 Demo
 
-[Live Demo](https://your-demo-url.com) (Coming Soon)
+[Live Demo]([https://your-demo-url.com](https://aisafetydashboard1.netlify.app/))
 
 ## ✨ Features
 
@@ -68,21 +67,6 @@ yarn dev
 
 4. Open your browser and navigate to `http://localhost:5173`
 
-### Development Setup
-
-1. **Environment Setup**
-   - Create a `.env` file in the root directory
-   - Add any necessary environment variables
-
-2. **Available Scripts**
-   ```bash
-   npm run dev    # Start development server
-   npm run build  # Build for production
-   npm run preview # Preview production build
-   npm run lint   # Run ESLint
-   npm run test   # Run tests
-   ```
-
 ## 📁 Project Structure
 
 ```
@@ -119,48 +103,7 @@ src/
 - Sort incidents by date (Newest/Oldest)
 - Responsive card layout
 
-## 🧪 Testing
 
-The project includes:
-- Unit tests for components
-- Integration tests for features
-- Type checking with TypeScript
-
-Run tests with:
-```bash
-npm test
-# or
-yarn test
-```
-
-## 📦 Deployment
-
-1. Build the project:
-```bash
-npm run build
-# or
-yarn build
-```
-
-2. Deploy the `dist` folder to your hosting service of choice.
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-### Code Style
-- Follow the existing code style
-- Use TypeScript for type safety
-- Write meaningful commit messages
-- Update documentation as needed
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -170,22 +113,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Vite](https://vitejs.dev/) - Build Tool
 - [React Icons](https://react-icons.github.io/react-icons/) - Icons
 
-## 📞 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
 
-Project Link: [https://github.com/yourusername/ai-safety-incidents](https://github.com/yourusername/ai-safety-incidents)
+Project Link: [https://github.com/yourusername/ai-safety-incidents]([https://github.com/yourusername/ai-safety-incidents](https://github.com/sahilpate-221s/AI-Safety-Incidents-Dashboard))
 
-## 📈 Changelog
 
-### v1.0.0 (Current)
-- Initial release
-- Basic incident management
-- Search and filter functionality
-- Responsive design
-
-### Upcoming Features
-- [ ] User authentication
-- [ ] Real-time updates
-- [ ] Export functionality
-- [ ] Analytics dashboard
