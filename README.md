@@ -13,6 +13,10 @@ A modern, responsive dashboard for monitoring and managing AI safety incidents i
 
 [Live Demo](https://aisafetydashboard1.netlify.app/)
 
+
+## ScreenShotes 
+![Screenshot_27-4-2025_04338_aisafetydashboard1 netlify app](https://github.com/user-attachments/assets/bc4493fa-3131-40c9-b479-082155b8fa66)
+
 ## ✨ Features
 
 - 🎨 Modern, glassmorphic UI design
