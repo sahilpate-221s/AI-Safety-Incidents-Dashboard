@@ -11,7 +11,7 @@ A modern, responsive dashboard for monitoring and managing AI safety incidents i
 
 ## 🚀 Demo
 
-[Live Demo]([https://your-demo-url.com](https://aisafetydashboard1.netlify.app/))
+[Live Demo]([https://aisafetydashboard1.netlify.app/)])
 
 ## ✨ Features
 
